@@ -1,4 +1,4 @@
-# Display-and-RTC-DS1307  
+#Program
 Arduino | RTC DS1307  
 GND     | GND  
 5V      | VCC  
